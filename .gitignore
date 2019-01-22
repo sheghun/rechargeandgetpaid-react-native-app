@@ -2,16 +2,14 @@
 #
 .DS_Store
 
-
-# android
-android/
-
 # Ios
 ios/
 
 # node modules
 node_modules/
 
+
+third-party/
 
 # Xcode
 #
