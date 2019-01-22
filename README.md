@@ -15,6 +15,7 @@ npm install -g yarn
 ```sh
 yarn add global react-native
 ```
+* You nedd to have [Android Studio](https://developer.android.com/studio/)
 
 # Process
 
